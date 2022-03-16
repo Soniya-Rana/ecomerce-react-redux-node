@@ -1,4 +1,4 @@
-# ecoomerce-react-redux-node
+# ecomerce-react-redux-node
 
 -- forever21 ecommerce application
     (https://www.forever21.in/)
